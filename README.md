@@ -1,4 +1,4 @@
-#sarsim
+# sarsim
 
 Some test patterns and algorithms I use for generating SAR simulation data.
 
